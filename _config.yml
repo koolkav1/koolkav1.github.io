@@ -14,13 +14,13 @@ url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Kav Khalsa'
+  url:            https://twitter.com/koolkav1
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:          https://github.com/koolkav1/koolkav1.github.io
