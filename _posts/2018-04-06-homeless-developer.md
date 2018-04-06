@@ -7,7 +7,7 @@ image: /assets/images/startup.jpg
 ---
 This is a very random project. I have been following Free Code Camp blog on Medium for a while now and I totally loved their idea where they taught refugees how to code.
 
-I need to improve my JavaScript skills and to ensure I am patient, good teacher. Why not, do both? I will teach someone who has never written code before and help them get on their feet.
+I need to improve my JavaScript skills and to ensure I am a patient, good teacher. Why not, do both? I will teach someone who has never written code before and help them get on their feet.
 
 There are several drawbacks here, I also need to ensure my own safety, I need to think of a curriculum, assessments, their current skills, do they even know how to use a computer?  How did they get homeless? Was it drugs, their mental health, their lack of hygiene? So many things to consider. 
 
