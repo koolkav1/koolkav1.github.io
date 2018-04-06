@@ -4,7 +4,6 @@ title:  "About Kav Khalsa"
 date:   2018-04-06 10:21:07 +0000
 image: /assets/images/twoscreen.jpg
 ---
-#
  I am a front-end developer with a keen interest in user experience. What does that mean? It means that I am constantly exploring new ways to improve the user experience. I can achieve it through design and I can achieve it through code.
 
 My ideal role is to become a Principal Front-end Architect. Yes, such a role does exist and I have done my research. However, It will just take me a while to get there. I guess the saying is true, you can't climb Everest in a day.
